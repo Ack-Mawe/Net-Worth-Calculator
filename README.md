@@ -25,6 +25,11 @@ No dependencies required.
 Run `python net_worth.py` to calculate your net worth.
 
 
+*Currency*
+
+The script uses Kwacha (K) as the currency symbol.
+
+
 *License*
 
 MIT License
@@ -37,6 +42,20 @@ Contributions welcome! To use this net worth calculator effectively, please:
 
 1. Edit the code to reflect your current assets and liabilities.
 2. Submit pull requests with clear descriptions if you'd like to share your changes.
+
+
+*Testing and Compatibility*
+
+This script has been tested on:
+
+• Android devices
+
+Untested on:
+
+• Windows
+• macOS
+• Linux
+• iOS
 
 
 *Author*
